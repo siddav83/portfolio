@@ -1,0 +1,28 @@
+nav {
+    background-color: aqua;
+    /* height: 40px; */
+    
+}
+
+nav ul {
+    display: flex;
+    justify-content: end;
+}
+
+nav li {
+    padding: 20px;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+
+i {
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+/* body {
+    background-color: red;
+} */
